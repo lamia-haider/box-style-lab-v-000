@@ -53,7 +53,7 @@ img {
 
 }
 h4.dubious {
-  background: linear-gradient('light red', #b42121);
+  background: linear-gradient(#dd4545, #b42121);
 }
 
 .column {
